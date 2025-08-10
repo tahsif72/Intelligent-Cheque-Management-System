@@ -1,2 +1,2 @@
-# Intelligent-Cheque-Management-System
+# [Intelligent-Cheque-Management-System](https://apex.oracle.com/pls/apex/r/zillur_sms/chq154199/login?session=11286029436174) user: rahman password:123456
 The IntelliCheque Management System (ICMS), built with Oracle APEX and PL/SQL, automates cheque issuance, tracking, and reporting. It features bank/payee management, validation, role-based security, and audit trails. ICMS improves accuracy, speed, and compliance, with future plans for AI fraud detection, mobile optimization, and integration.
